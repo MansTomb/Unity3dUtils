@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/3DCharacter/InputController/InputController.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/Utils/3DCharacter/InputController/InputController.inputactions'
 
 using System;
 using System.Collections;
